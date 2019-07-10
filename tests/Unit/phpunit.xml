@@ -1,0 +1,14 @@
+<phpunit
+  bootstrap="bootstrap.php"
+>
+  <php>
+    <const name="_DB_PREFIX_" value="ps_"/>
+    <const name="_PS_VERSION_" value="FavoriteProductsVersion"/>
+  </php>
+
+  <testsuites>
+    <testsuite name="FavoriteProducts">
+      <directory>.</directory>
+    </testsuite>
+  </testsuites>
+</phpunit>
