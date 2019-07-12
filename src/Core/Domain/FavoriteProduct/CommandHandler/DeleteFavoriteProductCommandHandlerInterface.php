@@ -24,7 +24,7 @@
  * International Registered Trademark & Property of PrestaShop SA
  */
 
-namespace PrestaShop\Module\FavoriteProducts\Core\Domain\FavoriteProduct\CommandHandler;
+namespace PrestaShop\Module\FavoriteProducts\Domain\FavoriteProduct\CommandHandler;
 
 use PrestaShop\Module\FavoriteProducts\Core\Domain\FavoriteProduct\Command\DeleteFavoriteProductCommand;
 
